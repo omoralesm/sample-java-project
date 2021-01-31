@@ -12,6 +12,7 @@ import lombok.Setter;
 /**
  * The main class of the application. It contains the main() method,
  * the first method called.
+ * OMM
  */
 @NoArgsConstructor
 @AllArgsConstructor
