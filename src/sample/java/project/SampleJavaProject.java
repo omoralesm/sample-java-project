@@ -14,6 +14,7 @@ import lombok.Setter;
  * the first method called.
  * OMM
  * Otro sencillo
+ * Cambio local
  */
 @NoArgsConstructor
 @AllArgsConstructor
