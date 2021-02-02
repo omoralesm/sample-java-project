@@ -15,6 +15,7 @@ import lombok.Setter;
  * OMM
  * Otro sencillo
  * Cambio local
+ * Otro cambio local
  */
 @NoArgsConstructor
 @AllArgsConstructor
