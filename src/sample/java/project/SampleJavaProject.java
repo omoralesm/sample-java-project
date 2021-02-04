@@ -21,6 +21,7 @@ import lombok.Setter;
  * Más información
  * Aún más información
  * Datos
+ * Información relevante
  */
 @NoArgsConstructor
 @AllArgsConstructor
