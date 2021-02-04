@@ -19,6 +19,8 @@ import lombok.Setter;
  * Cambio desde Visual Studio Code
  * Otro
  * Más información
+ * Aún más información
+ * Datos
  */
 @NoArgsConstructor
 @AllArgsConstructor
